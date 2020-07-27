@@ -1,0 +1,7 @@
+RENCANA PROJECT WEB
+
+- Design frond end 
+- Menggunakan bahasa PHP
+- Menggunakan framework Laravel
+- Menggunakan MYSQL
+- Merencanakan Back End
