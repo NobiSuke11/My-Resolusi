@@ -5,6 +5,7 @@ RENCANA PROJECT WEB
   * Saya design sebagus mungkin
 - Menggunakan bahasa PHP
 - Menggunakan framework Laravel
+- Menggunakan framework Codeigniter
 - Menggunakan MYSQL
 - Merencanakan Back End
 - Untuk Hosting nya yang free
