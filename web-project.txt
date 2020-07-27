@@ -1,6 +1,8 @@
 RENCANA PROJECT WEB
 
 - Design frond end 
+  * Web portfolio
+  * Saya design sebagus mungkin
 - Menggunakan bahasa PHP
 - Menggunakan framework Laravel
 - Menggunakan MYSQL
