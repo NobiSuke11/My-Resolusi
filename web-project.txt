@@ -7,3 +7,4 @@ RENCANA PROJECT WEB
 - Menggunakan framework Laravel
 - Menggunakan MYSQL
 - Merencanakan Back End
+- Untuk Hosting nya yang free
