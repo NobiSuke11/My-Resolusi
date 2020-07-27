@@ -8,3 +8,7 @@ RENCANA PROJECT WEB
 - Menggunakan MYSQL
 - Merencanakan Back End
 - Untuk Hosting nya yang free
+- Menggunakan framework Javascript
+ * Vue Js
+ * React Js
+- Database menggunakan Firebase
